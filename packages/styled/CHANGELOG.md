@@ -1,5 +1,14 @@
 # @emotion/styled
 
+## 10.0.22
+
+### Patch Changes
+
+- [c3f0bc10](https://github.com/emotion-js/emotion/commit/c3f0bc101833fff1ee4e27c7a730b821a7df4a15) [#1545](https://github.com/emotion-js/emotion/pull/1545) Thanks [@jgroszko](https://github.com/jgroszko)! - Accept objects as `className` in styled components (they are stringified) to match React behavior
+
+- Updated dependencies [c3f0bc10]:
+  - @emotion/styled-base@undefined
+
 ## 10.0.17
 
 ### Patch Changes
